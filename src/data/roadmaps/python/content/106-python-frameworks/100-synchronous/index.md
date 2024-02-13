@@ -5,3 +5,4 @@ Synchronous frameworks in python handle the flow of data in a synchronous manner
 Visit the following resources to learn more:
 
 - [Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
+- [Python Request Tutorial] (https://www.geeksforgeeks.org/python-requests-tutorial)
